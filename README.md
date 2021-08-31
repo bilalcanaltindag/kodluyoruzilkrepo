@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 #  Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/bilalcanaltindag/kodluyoruz-frontend-101-egitimi.git
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,17 +22,4 @@ License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
--list item 1
--list item 2
-
-*list item 1
-*list item 2
-
-
-# Basliklar -> h1
-## -> h2
-### -> h3
-
-
-[Google'a gitmek için tıklayınız](https://www.google.com)
 ![Kedi Fotoğrafı](https://ichef.bbci.co.uk/news/640/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg)
